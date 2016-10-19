@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+
+target 'ImageViewer' do
+
+pod 'Masonry'
+
+end
+
+target 'ImageViewerTests' do
+
+end
+
